@@ -15,7 +15,7 @@
 					<string>223.6.6.6</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://coh.inoainoa.fun/dns-query</string>
+				<string>https://doh.dnns.fun/dns-query</string>
 			</dict->
 			<key>PayloadDescription</key>
 			<string>Configures device to use AliCloud Public Security DNS over HTTPS</string>
